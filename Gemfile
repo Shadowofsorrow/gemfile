@@ -42,6 +42,6 @@ end
 
 group :production do
   gem 'pg', '0.12.2'
-  gem 'mongo', '1.9.1'
-  gem 'mongodb', '2.1.0'
+  # gem 'mongo', '1.9.1'
+  # gem 'mongodb', '2.1.0'
 end
